@@ -124,4 +124,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For questions or feedback, open an issue on [GitHub](https://github.com/armanjscript) or [Email](armannew73@gmail.com).
+For questions or feedback, open an issue on [GitHub](https://github.com/armanjscript) or [armannew73@gmail.com].
